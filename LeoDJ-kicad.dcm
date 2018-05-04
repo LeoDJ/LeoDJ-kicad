@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DW01A
+D One Cell Lithium-Ion/Polymer Battery Protection IC
+K Battery Protection Lithium
+F http://escooter.org.ua/_fr/1/DW01A-DS-10_EN.pdf
+$ENDCMP
+#
+$CMP FS8205A
+D Dual N-Channel Enhancement Mode Power MOSFET
+K N-Channel MOSFET Dual
+F http://www.ic-fortune.com/upload/Download/FS8205A-DS-12_EN.pdf
+$ENDCMP
+#
+$CMP LMR14010A
+D 4-V to 40-V, 1-A Step-Down Converter 
+K Power Buck Converter Regulator
+F http://www.ti.com/lit/ds/symlink/lmr14010a.pdf
+$ENDCMP
+#
+$CMP TP4056
+D 1A Standalone Linear Li-Ion Battery Charger with Thermal Regulation
+K Lithium Li Ion Battery Charger
+F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+$ENDCMP
+#
+#End Doc Library
