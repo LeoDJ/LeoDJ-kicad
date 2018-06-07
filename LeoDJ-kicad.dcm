@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AO3400A
+D 30V, N-channel MOSFET, SOT-23
+K N-Channel MOSFET
+F http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf
+$ENDCMP
+#
 $CMP DW01A
 D One Cell Lithium-Ion/Polymer Battery Protection IC
 K Battery Protection Lithium
@@ -13,7 +19,7 @@ F http://www.ic-fortune.com/upload/Download/FS8205A-DS-12_EN.pdf
 $ENDCMP
 #
 $CMP LMR14010A
-D 4-V to 40-V, 1-A Step-Down Converter 
+D 4-V to 40-V, 1-A Step-Down Converter
 K Power Buck Converter Regulator
 F http://www.ti.com/lit/ds/symlink/lmr14010a.pdf
 $ENDCMP
