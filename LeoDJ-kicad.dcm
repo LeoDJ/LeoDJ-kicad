@@ -30,4 +30,10 @@ K Lithium Li Ion Battery Charger
 F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
 $ENDCMP
 #
+$CMP VS1838b
+D Infrared Receiver Module
+K infrared, receiver, 1838
+F https://www.elecrow.com/download/Infrared%20receiver%20vs1838b.pdf
+$ENDCMP
+#
 #End Doc Library
