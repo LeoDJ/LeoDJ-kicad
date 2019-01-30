@@ -24,6 +24,12 @@ K Power Buck Converter Regulator
 F http://www.ti.com/lit/ds/symlink/lmr14010a.pdf
 $ENDCMP
 #
+$CMP MT3608
+D 2A, High Efficiency 1.2MHz Current Mode Step-UpConverter
+K Power Boost Step-Up Converter Regulator
+F https://prom-electric.ru/media/MT3608.pdf
+$ENDCMP
+#
 $CMP TP4056
 D 1A Standalone Linear Li-Ion Battery Charger with Thermal Regulation
 K Lithium Li Ion Battery Charger
