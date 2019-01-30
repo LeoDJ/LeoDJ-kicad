@@ -11,3 +11,6 @@ They are not sorted in any way, because I don't have that many yet.
 - FS8502A
 - LMR14010A
 - TP4056
+- AO3400A
+- MT3608
+- VS1838b
