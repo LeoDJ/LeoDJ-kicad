@@ -1,4 +1,4 @@
-(module "NRF24L01_SMD" (layer F.Cu) (tedit 5F065AD7)
+(module "NRF24L01_SMD" (layer F.Cu) (tedit 5F15C446)
   (descr "Pin order: Vcc, GND, CE, ...")
   (attr smd)
   (fp_text reference "REF**" (at -4.1 11 unlocked) (layer F.SilkS)
@@ -10,7 +10,6 @@
   (fp_line (start -6 8.7) (end -6 -10.3) (layer F.CrtYd) (width 0.15))
   (fp_line (start 6 -10.3) (end 6 8.7) (layer F.CrtYd) (width 0.15))
   (fp_line (start 6 8.7) (end -6 8.7) (layer F.CrtYd) (width 0.15))
-  (fp_line (start -6 -5) (end 6 -5) (layer F.CrtYd) (width 0.15))
   (fp_line (start -6 -10.3) (end 6 -10.3) (layer F.CrtYd) (width 0.15))
   (fp_line (start -6 8.7) (end -5.5 8.7) (layer F.SilkS) (width 0.12))
   (fp_line (start -5.5 8.7) (end -6 8.7) (layer F.SilkS) (width 0.12))
