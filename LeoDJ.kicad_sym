@@ -113,7 +113,7 @@
     (property "ki_keywords" "BPS, Bright Power Semicon, LED, DCDC" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Boost, Buck and  Buck-Boost DC/DC LED Driver" (id 5) (at 0 0 0)
+    (property "ki_description" "Boost, Buck and Buck-Boost DC/DC LED Driver" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm*" (id 6) (at 0 0 0)

@@ -4,7 +4,7 @@ This library contains all of my custom created symbols and footprints and also s
 They are not sorted in any way, because I don't have that many yet.
 
 ## Installation
-You have to add the path to `LeoDJ-kicad\LeoDJ-kicad.3dshapes` as an environment variable named `LeoDJ_3D` for to 3D models to load.
+You have to add the path to `LeoDJ-kicad\LeoDJ-kicad.3dshapes` as an environment variable named `LeoDJ_3D` for the 3D models to load.
 
 ## Symbols
 
